@@ -195,7 +195,7 @@ Your browser will open automatically at `http://localhost:3000` 🎉
 
 ### Chat Interface
 
-![TutorBot UI](tutor-ui.png)
+![TutorBot UI](frontend/src/tutor-ui.png)
 ---
 
 ## 🔧 API Reference
