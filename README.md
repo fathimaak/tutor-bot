@@ -191,12 +191,11 @@ Your browser will open automatically at `http://localhost:3000` 🎉
 - `What is DNA?`
 
 ---
-
 ## 📸 Screenshots
 
 ### Chat Interface
-![TutorBot UI](Screenshot%202026-03-10%20123028.png)
 
+![TutorBot UI](tutor-ui.png)
 ---
 
 ## 🔧 API Reference
